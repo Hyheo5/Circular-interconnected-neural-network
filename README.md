@@ -2,4 +2,4 @@
 
 will be updated
 
-for now I uploaded my jupyter notebook and its output as HTML
+for now I uploaded my jupyter notebook and its HTML form
